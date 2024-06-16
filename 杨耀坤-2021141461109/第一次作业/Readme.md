@@ -1,0 +1,4 @@
+- 代码：
+	- process.py: 程序主入口
+	- draw.py: 画图程序
+- patternRecognition.pdf：整理成的文档
