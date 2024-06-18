@@ -1,0 +1,406 @@
+2024-06-18 10:05:39.841 | WARNING  | __main__:<module>:102 - device.type:cuda
+2024-06-18 10:05:39.841 | WARNING  | __main__:<module>:103 - batch_size:64
+2024-06-18 10:05:39.841 | WARNING  | __main__:<module>:104 - epoch_num:50
+2024-06-18 10:05:40.676 | INFO     | __main__:<module>:126 - trainset size:20000
+2024-06-18 10:05:40.676 | INFO     | __main__:<module>:127 - testset size:10000
+2024-06-18 10:05:46.578 | INFO     | __main__:train:88 - epoch 1[batch i:50][batch size:64][loss:1.14]
+2024-06-18 10:05:46.881 | INFO     | __main__:train:88 - epoch 1[batch i:100][batch size:64][loss:1.06]
+2024-06-18 10:05:47.187 | INFO     | __main__:train:88 - epoch 1[batch i:150][batch size:64][loss:1.01]
+2024-06-18 10:05:47.496 | INFO     | __main__:train:88 - epoch 1[batch i:200][batch size:64][loss:1.00]
+2024-06-18 10:05:47.827 | INFO     | __main__:train:88 - epoch 1[batch i:250][batch size:64][loss:0.98]
+2024-06-18 10:05:48.151 | INFO     | __main__:train:88 - epoch 1[batch i:300][batch size:64][loss:0.94]
+2024-06-18 10:05:48.480 | INFO     | __main__:train:92 - epoch 1 time:7.64s
+2024-06-18 10:05:52.536 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 35.72%
+2024-06-18 10:05:56.971 | INFO     | __main__:train:88 - epoch 2[batch i:50][batch size:64][loss:0.93]
+2024-06-18 10:05:57.339 | INFO     | __main__:train:88 - epoch 2[batch i:100][batch size:64][loss:0.93]
+2024-06-18 10:05:57.731 | INFO     | __main__:train:88 - epoch 2[batch i:150][batch size:64][loss:0.93]
+2024-06-18 10:05:58.061 | INFO     | __main__:train:88 - epoch 2[batch i:200][batch size:64][loss:0.92]
+2024-06-18 10:05:58.444 | INFO     | __main__:train:88 - epoch 2[batch i:250][batch size:64][loss:0.92]
+2024-06-18 10:05:58.863 | INFO     | __main__:train:88 - epoch 2[batch i:300][batch size:64][loss:0.92]
+2024-06-18 10:05:59.241 | INFO     | __main__:train:92 - epoch 2 time:6.70s
+2024-06-18 10:06:04.170 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 40.88%
+2024-06-18 10:06:08.909 | INFO     | __main__:train:88 - epoch 3[batch i:50][batch size:64][loss:0.89]
+2024-06-18 10:06:09.258 | INFO     | __main__:train:88 - epoch 3[batch i:100][batch size:64][loss:0.88]
+2024-06-18 10:06:09.622 | INFO     | __main__:train:88 - epoch 3[batch i:150][batch size:64][loss:0.89]
+2024-06-18 10:06:09.980 | INFO     | __main__:train:88 - epoch 3[batch i:200][batch size:64][loss:0.88]
+2024-06-18 10:06:10.325 | INFO     | __main__:train:88 - epoch 3[batch i:250][batch size:64][loss:0.88]
+2024-06-18 10:06:10.699 | INFO     | __main__:train:88 - epoch 3[batch i:300][batch size:64][loss:0.87]
+2024-06-18 10:06:11.058 | INFO     | __main__:train:92 - epoch 3 time:6.89s
+2024-06-18 10:06:15.667 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 42.24%
+2024-06-18 10:06:20.237 | INFO     | __main__:train:88 - epoch 4[batch i:50][batch size:64][loss:0.87]
+2024-06-18 10:06:20.615 | INFO     | __main__:train:88 - epoch 4[batch i:100][batch size:64][loss:0.86]
+2024-06-18 10:06:20.945 | INFO     | __main__:train:88 - epoch 4[batch i:150][batch size:64][loss:0.86]
+2024-06-18 10:06:21.297 | INFO     | __main__:train:88 - epoch 4[batch i:200][batch size:64][loss:0.87]
+2024-06-18 10:06:21.634 | INFO     | __main__:train:88 - epoch 4[batch i:250][batch size:64][loss:0.86]
+2024-06-18 10:06:22.006 | INFO     | __main__:train:88 - epoch 4[batch i:300][batch size:64][loss:0.85]
+2024-06-18 10:06:22.357 | INFO     | __main__:train:92 - epoch 4 time:6.69s
+2024-06-18 10:06:26.598 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 44.26%
+2024-06-18 10:06:30.879 | INFO     | __main__:train:88 - epoch 5[batch i:50][batch size:64][loss:0.83]
+2024-06-18 10:06:31.197 | INFO     | __main__:train:88 - epoch 5[batch i:100][batch size:64][loss:0.85]
+2024-06-18 10:06:31.529 | INFO     | __main__:train:88 - epoch 5[batch i:150][batch size:64][loss:0.84]
+2024-06-18 10:06:31.875 | INFO     | __main__:train:88 - epoch 5[batch i:200][batch size:64][loss:0.83]
+2024-06-18 10:06:32.234 | INFO     | __main__:train:88 - epoch 5[batch i:250][batch size:64][loss:0.83]
+2024-06-18 10:06:32.591 | INFO     | __main__:train:88 - epoch 5[batch i:300][batch size:64][loss:0.84]
+2024-06-18 10:06:32.942 | INFO     | __main__:train:92 - epoch 5 time:6.34s
+2024-06-18 10:06:37.169 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 45.02%
+2024-06-18 10:06:41.519 | INFO     | __main__:train:88 - epoch 6[batch i:50][batch size:64][loss:0.82]
+2024-06-18 10:06:41.884 | INFO     | __main__:train:88 - epoch 6[batch i:100][batch size:64][loss:0.82]
+2024-06-18 10:06:42.233 | INFO     | __main__:train:88 - epoch 6[batch i:150][batch size:64][loss:0.81]
+2024-06-18 10:06:42.574 | INFO     | __main__:train:88 - epoch 6[batch i:200][batch size:64][loss:0.82]
+2024-06-18 10:06:42.905 | INFO     | __main__:train:88 - epoch 6[batch i:250][batch size:64][loss:0.82]
+2024-06-18 10:06:43.253 | INFO     | __main__:train:88 - epoch 6[batch i:300][batch size:64][loss:0.82]
+2024-06-18 10:06:43.580 | INFO     | __main__:train:92 - epoch 6 time:6.41s
+2024-06-18 10:06:47.810 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 45.10%
+2024-06-18 10:06:52.331 | INFO     | __main__:train:88 - epoch 7[batch i:50][batch size:64][loss:0.81]
+2024-06-18 10:06:52.714 | INFO     | __main__:train:88 - epoch 7[batch i:100][batch size:64][loss:0.81]
+2024-06-18 10:06:53.069 | INFO     | __main__:train:88 - epoch 7[batch i:150][batch size:64][loss:0.79]
+2024-06-18 10:06:53.393 | INFO     | __main__:train:88 - epoch 7[batch i:200][batch size:64][loss:0.80]
+2024-06-18 10:06:53.800 | INFO     | __main__:train:88 - epoch 7[batch i:250][batch size:64][loss:0.82]
+2024-06-18 10:06:54.209 | INFO     | __main__:train:88 - epoch 7[batch i:300][batch size:64][loss:0.79]
+2024-06-18 10:06:54.570 | INFO     | __main__:train:92 - epoch 7 time:6.76s
+2024-06-18 10:06:58.798 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 46.02%
+2024-06-18 10:07:03.592 | INFO     | __main__:train:88 - epoch 8[batch i:50][batch size:64][loss:0.78]
+2024-06-18 10:07:03.953 | INFO     | __main__:train:88 - epoch 8[batch i:100][batch size:64][loss:0.77]
+2024-06-18 10:07:04.333 | INFO     | __main__:train:88 - epoch 8[batch i:150][batch size:64][loss:0.80]
+2024-06-18 10:07:04.701 | INFO     | __main__:train:88 - epoch 8[batch i:200][batch size:64][loss:0.79]
+2024-06-18 10:07:05.063 | INFO     | __main__:train:88 - epoch 8[batch i:250][batch size:64][loss:0.79]
+2024-06-18 10:07:05.427 | INFO     | __main__:train:88 - epoch 8[batch i:300][batch size:64][loss:0.79]
+2024-06-18 10:07:05.814 | INFO     | __main__:train:92 - epoch 8 time:7.02s
+2024-06-18 10:07:10.092 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 46.16%
+2024-06-18 10:07:14.393 | INFO     | __main__:train:88 - epoch 9[batch i:50][batch size:64][loss:0.78]
+2024-06-18 10:07:14.757 | INFO     | __main__:train:88 - epoch 9[batch i:100][batch size:64][loss:0.77]
+2024-06-18 10:07:15.121 | INFO     | __main__:train:88 - epoch 9[batch i:150][batch size:64][loss:0.78]
+2024-06-18 10:07:15.478 | INFO     | __main__:train:88 - epoch 9[batch i:200][batch size:64][loss:0.77]
+2024-06-18 10:07:15.852 | INFO     | __main__:train:88 - epoch 9[batch i:250][batch size:64][loss:0.78]
+2024-06-18 10:07:16.239 | INFO     | __main__:train:88 - epoch 9[batch i:300][batch size:64][loss:0.77]
+2024-06-18 10:07:16.602 | INFO     | __main__:train:92 - epoch 9 time:6.51s
+2024-06-18 10:07:20.790 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 47.09%
+2024-06-18 10:07:25.134 | INFO     | __main__:train:88 - epoch 10[batch i:50][batch size:64][loss:0.75]
+2024-06-18 10:07:25.491 | INFO     | __main__:train:88 - epoch 10[batch i:100][batch size:64][loss:0.75]
+2024-06-18 10:07:25.858 | INFO     | __main__:train:88 - epoch 10[batch i:150][batch size:64][loss:0.77]
+2024-06-18 10:07:26.224 | INFO     | __main__:train:88 - epoch 10[batch i:200][batch size:64][loss:0.76]
+2024-06-18 10:07:26.593 | INFO     | __main__:train:88 - epoch 10[batch i:250][batch size:64][loss:0.78]
+2024-06-18 10:07:26.967 | INFO     | __main__:train:88 - epoch 10[batch i:300][batch size:64][loss:0.76]
+2024-06-18 10:07:27.328 | INFO     | __main__:train:92 - epoch 10 time:6.54s
+2024-06-18 10:07:31.863 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 48.32%
+2024-06-18 10:07:36.356 | INFO     | __main__:train:88 - epoch 11[batch i:50][batch size:64][loss:0.73]
+2024-06-18 10:07:36.722 | INFO     | __main__:train:88 - epoch 11[batch i:100][batch size:64][loss:0.74]
+2024-06-18 10:07:37.084 | INFO     | __main__:train:88 - epoch 11[batch i:150][batch size:64][loss:0.74]
+2024-06-18 10:07:37.448 | INFO     | __main__:train:88 - epoch 11[batch i:200][batch size:64][loss:0.72]
+2024-06-18 10:07:37.809 | INFO     | __main__:train:88 - epoch 11[batch i:250][batch size:64][loss:0.72]
+2024-06-18 10:07:38.176 | INFO     | __main__:train:88 - epoch 11[batch i:300][batch size:64][loss:0.75]
+2024-06-18 10:07:38.532 | INFO     | __main__:train:92 - epoch 11 time:6.67s
+2024-06-18 10:07:42.847 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 49.25%
+2024-06-18 10:07:47.543 | INFO     | __main__:train:88 - epoch 12[batch i:50][batch size:64][loss:0.73]
+2024-06-18 10:07:47.941 | INFO     | __main__:train:88 - epoch 12[batch i:100][batch size:64][loss:0.71]
+2024-06-18 10:07:48.289 | INFO     | __main__:train:88 - epoch 12[batch i:150][batch size:64][loss:0.72]
+2024-06-18 10:07:48.656 | INFO     | __main__:train:88 - epoch 12[batch i:200][batch size:64][loss:0.73]
+2024-06-18 10:07:49.007 | INFO     | __main__:train:88 - epoch 12[batch i:250][batch size:64][loss:0.73]
+2024-06-18 10:07:49.374 | INFO     | __main__:train:88 - epoch 12[batch i:300][batch size:64][loss:0.73]
+2024-06-18 10:07:49.728 | INFO     | __main__:train:92 - epoch 12 time:6.88s
+2024-06-18 10:07:54.009 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 49.61%
+2024-06-18 10:07:58.445 | INFO     | __main__:train:88 - epoch 13[batch i:50][batch size:64][loss:0.72]
+2024-06-18 10:07:58.809 | INFO     | __main__:train:88 - epoch 13[batch i:100][batch size:64][loss:0.73]
+2024-06-18 10:07:59.179 | INFO     | __main__:train:88 - epoch 13[batch i:150][batch size:64][loss:0.72]
+2024-06-18 10:07:59.553 | INFO     | __main__:train:88 - epoch 13[batch i:200][batch size:64][loss:0.71]
+2024-06-18 10:07:59.910 | INFO     | __main__:train:88 - epoch 13[batch i:250][batch size:64][loss:0.72]
+2024-06-18 10:08:00.288 | INFO     | __main__:train:88 - epoch 13[batch i:300][batch size:64][loss:0.71]
+2024-06-18 10:08:00.648 | INFO     | __main__:train:92 - epoch 13 time:6.64s
+2024-06-18 10:08:04.902 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 49.62%
+2024-06-18 10:08:09.110 | INFO     | __main__:train:88 - epoch 14[batch i:50][batch size:64][loss:0.72]
+2024-06-18 10:08:09.464 | INFO     | __main__:train:88 - epoch 14[batch i:100][batch size:64][loss:0.71]
+2024-06-18 10:08:09.829 | INFO     | __main__:train:88 - epoch 14[batch i:150][batch size:64][loss:0.71]
+2024-06-18 10:08:10.126 | INFO     | __main__:train:88 - epoch 14[batch i:200][batch size:64][loss:0.71]
+2024-06-18 10:08:10.418 | INFO     | __main__:train:88 - epoch 14[batch i:250][batch size:64][loss:0.72]
+2024-06-18 10:08:10.714 | INFO     | __main__:train:88 - epoch 14[batch i:300][batch size:64][loss:0.71]
+2024-06-18 10:08:10.979 | INFO     | __main__:train:92 - epoch 14 time:6.08s
+2024-06-18 10:08:15.372 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 49.69%
+2024-06-18 10:08:20.213 | INFO     | __main__:train:88 - epoch 15[batch i:50][batch size:64][loss:0.73]
+2024-06-18 10:08:20.606 | INFO     | __main__:train:88 - epoch 15[batch i:100][batch size:64][loss:0.70]
+2024-06-18 10:08:20.990 | INFO     | __main__:train:88 - epoch 15[batch i:150][batch size:64][loss:0.70]
+2024-06-18 10:08:21.376 | INFO     | __main__:train:88 - epoch 15[batch i:200][batch size:64][loss:0.71]
+2024-06-18 10:08:21.790 | INFO     | __main__:train:88 - epoch 15[batch i:250][batch size:64][loss:0.71]
+2024-06-18 10:08:22.180 | INFO     | __main__:train:88 - epoch 15[batch i:300][batch size:64][loss:0.69]
+2024-06-18 10:08:22.555 | INFO     | __main__:train:92 - epoch 15 time:7.18s
+2024-06-18 10:08:27.131 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.01%
+2024-06-18 10:08:31.460 | INFO     | __main__:train:88 - epoch 16[batch i:50][batch size:64][loss:0.71]
+2024-06-18 10:08:31.822 | INFO     | __main__:train:88 - epoch 16[batch i:100][batch size:64][loss:0.71]
+2024-06-18 10:08:32.189 | INFO     | __main__:train:88 - epoch 16[batch i:150][batch size:64][loss:0.70]
+2024-06-18 10:08:32.564 | INFO     | __main__:train:88 - epoch 16[batch i:200][batch size:64][loss:0.71]
+2024-06-18 10:08:32.896 | INFO     | __main__:train:88 - epoch 16[batch i:250][batch size:64][loss:0.70]
+2024-06-18 10:08:33.212 | INFO     | __main__:train:88 - epoch 16[batch i:300][batch size:64][loss:0.70]
+2024-06-18 10:08:33.581 | INFO     | __main__:train:92 - epoch 16 time:6.45s
+2024-06-18 10:08:37.949 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 49.87%
+2024-06-18 10:08:42.650 | INFO     | __main__:train:88 - epoch 17[batch i:50][batch size:64][loss:0.70]
+2024-06-18 10:08:43.009 | INFO     | __main__:train:88 - epoch 17[batch i:100][batch size:64][loss:0.69]
+2024-06-18 10:08:43.376 | INFO     | __main__:train:88 - epoch 17[batch i:150][batch size:64][loss:0.70]
+2024-06-18 10:08:43.737 | INFO     | __main__:train:88 - epoch 17[batch i:200][batch size:64][loss:0.70]
+2024-06-18 10:08:44.089 | INFO     | __main__:train:88 - epoch 17[batch i:250][batch size:64][loss:0.69]
+2024-06-18 10:08:44.450 | INFO     | __main__:train:88 - epoch 17[batch i:300][batch size:64][loss:0.70]
+2024-06-18 10:08:44.845 | INFO     | __main__:train:92 - epoch 17 time:6.90s
+2024-06-18 10:08:48.944 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 49.73%
+2024-06-18 10:08:53.329 | INFO     | __main__:train:88 - epoch 18[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:08:53.706 | INFO     | __main__:train:88 - epoch 18[batch i:100][batch size:64][loss:0.69]
+2024-06-18 10:08:54.096 | INFO     | __main__:train:88 - epoch 18[batch i:150][batch size:64][loss:0.70]
+2024-06-18 10:08:54.478 | INFO     | __main__:train:88 - epoch 18[batch i:200][batch size:64][loss:0.71]
+2024-06-18 10:08:54.864 | INFO     | __main__:train:88 - epoch 18[batch i:250][batch size:64][loss:0.69]
+2024-06-18 10:08:55.248 | INFO     | __main__:train:88 - epoch 18[batch i:300][batch size:64][loss:0.71]
+2024-06-18 10:08:55.620 | INFO     | __main__:train:92 - epoch 18 time:6.67s
+2024-06-18 10:08:59.895 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 49.91%
+2024-06-18 10:09:04.836 | INFO     | __main__:train:88 - epoch 19[batch i:50][batch size:64][loss:0.69]
+2024-06-18 10:09:05.298 | INFO     | __main__:train:88 - epoch 19[batch i:100][batch size:64][loss:0.69]
+2024-06-18 10:09:05.675 | INFO     | __main__:train:88 - epoch 19[batch i:150][batch size:64][loss:0.70]
+2024-06-18 10:09:06.061 | INFO     | __main__:train:88 - epoch 19[batch i:200][batch size:64][loss:0.69]
+2024-06-18 10:09:06.465 | INFO     | __main__:train:88 - epoch 19[batch i:250][batch size:64][loss:0.70]
+2024-06-18 10:09:06.854 | INFO     | __main__:train:88 - epoch 19[batch i:300][batch size:64][loss:0.70]
+2024-06-18 10:09:07.287 | INFO     | __main__:train:92 - epoch 19 time:7.39s
+2024-06-18 10:09:12.440 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 49.71%
+2024-06-18 10:09:16.896 | INFO     | __main__:train:88 - epoch 20[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:09:17.252 | INFO     | __main__:train:88 - epoch 20[batch i:100][batch size:64][loss:0.70]
+2024-06-18 10:09:17.615 | INFO     | __main__:train:88 - epoch 20[batch i:150][batch size:64][loss:0.71]
+2024-06-18 10:09:17.982 | INFO     | __main__:train:88 - epoch 20[batch i:200][batch size:64][loss:0.70]
+2024-06-18 10:09:18.326 | INFO     | __main__:train:88 - epoch 20[batch i:250][batch size:64][loss:0.68]
+2024-06-18 10:09:18.673 | INFO     | __main__:train:88 - epoch 20[batch i:300][batch size:64][loss:0.69]
+2024-06-18 10:09:19.056 | INFO     | __main__:train:92 - epoch 20 time:6.62s
+2024-06-18 10:09:23.330 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.28%
+2024-06-18 10:09:27.943 | INFO     | __main__:train:88 - epoch 21[batch i:50][batch size:64][loss:0.69]
+2024-06-18 10:09:28.314 | INFO     | __main__:train:88 - epoch 21[batch i:100][batch size:64][loss:0.70]
+2024-06-18 10:09:28.650 | INFO     | __main__:train:88 - epoch 21[batch i:150][batch size:64][loss:0.68]
+2024-06-18 10:09:28.997 | INFO     | __main__:train:88 - epoch 21[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:09:29.318 | INFO     | __main__:train:88 - epoch 21[batch i:250][batch size:64][loss:0.67]
+2024-06-18 10:09:29.664 | INFO     | __main__:train:88 - epoch 21[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:09:30.025 | INFO     | __main__:train:92 - epoch 21 time:6.69s
+2024-06-18 10:09:34.222 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.17%
+2024-06-18 10:09:38.585 | INFO     | __main__:train:88 - epoch 22[batch i:50][batch size:64][loss:0.69]
+2024-06-18 10:09:38.938 | INFO     | __main__:train:88 - epoch 22[batch i:100][batch size:64][loss:0.69]
+2024-06-18 10:09:39.286 | INFO     | __main__:train:88 - epoch 22[batch i:150][batch size:64][loss:0.68]
+2024-06-18 10:09:39.604 | INFO     | __main__:train:88 - epoch 22[batch i:200][batch size:64][loss:0.69]
+2024-06-18 10:09:39.926 | INFO     | __main__:train:88 - epoch 22[batch i:250][batch size:64][loss:0.69]
+2024-06-18 10:09:40.297 | INFO     | __main__:train:88 - epoch 22[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:09:40.691 | INFO     | __main__:train:92 - epoch 22 time:6.47s
+2024-06-18 10:09:45.279 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.33%
+2024-06-18 10:09:49.838 | INFO     | __main__:train:88 - epoch 23[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:09:50.166 | INFO     | __main__:train:88 - epoch 23[batch i:100][batch size:64][loss:0.68]
+2024-06-18 10:09:50.541 | INFO     | __main__:train:88 - epoch 23[batch i:150][batch size:64][loss:0.70]
+2024-06-18 10:09:50.858 | INFO     | __main__:train:88 - epoch 23[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:09:51.179 | INFO     | __main__:train:88 - epoch 23[batch i:250][batch size:64][loss:0.69]
+2024-06-18 10:09:51.503 | INFO     | __main__:train:88 - epoch 23[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:09:51.822 | INFO     | __main__:train:92 - epoch 23 time:6.54s
+2024-06-18 10:09:56.156 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.41%
+2024-06-18 10:10:01.097 | INFO     | __main__:train:88 - epoch 24[batch i:50][batch size:64][loss:0.69]
+2024-06-18 10:10:01.754 | INFO     | __main__:train:88 - epoch 24[batch i:100][batch size:64][loss:0.68]
+2024-06-18 10:10:02.419 | INFO     | __main__:train:88 - epoch 24[batch i:150][batch size:64][loss:0.69]
+2024-06-18 10:10:03.110 | INFO     | __main__:train:88 - epoch 24[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:10:03.662 | INFO     | __main__:train:88 - epoch 24[batch i:250][batch size:64][loss:0.67]
+2024-06-18 10:10:04.075 | INFO     | __main__:train:88 - epoch 24[batch i:300][batch size:64][loss:0.69]
+2024-06-18 10:10:04.469 | INFO     | __main__:train:92 - epoch 24 time:8.31s
+2024-06-18 10:10:09.191 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.28%
+2024-06-18 10:10:14.164 | INFO     | __main__:train:88 - epoch 25[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:10:14.726 | INFO     | __main__:train:88 - epoch 25[batch i:100][batch size:64][loss:0.70]
+2024-06-18 10:10:15.249 | INFO     | __main__:train:88 - epoch 25[batch i:150][batch size:64][loss:0.68]
+2024-06-18 10:10:15.784 | INFO     | __main__:train:88 - epoch 25[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:10:16.298 | INFO     | __main__:train:88 - epoch 25[batch i:250][batch size:64][loss:0.69]
+2024-06-18 10:10:16.794 | INFO     | __main__:train:88 - epoch 25[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:10:17.262 | INFO     | __main__:train:92 - epoch 25 time:8.07s
+2024-06-18 10:10:22.481 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 49.97%
+2024-06-18 10:10:27.768 | INFO     | __main__:train:88 - epoch 26[batch i:50][batch size:64][loss:0.66]
+2024-06-18 10:10:28.275 | INFO     | __main__:train:88 - epoch 26[batch i:100][batch size:64][loss:0.68]
+2024-06-18 10:10:28.788 | INFO     | __main__:train:88 - epoch 26[batch i:150][batch size:64][loss:0.68]
+2024-06-18 10:10:29.306 | INFO     | __main__:train:88 - epoch 26[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:10:29.808 | INFO     | __main__:train:88 - epoch 26[batch i:250][batch size:64][loss:0.69]
+2024-06-18 10:10:30.330 | INFO     | __main__:train:88 - epoch 26[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:10:30.780 | INFO     | __main__:train:92 - epoch 26 time:8.30s
+2024-06-18 10:10:35.889 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.15%
+2024-06-18 10:10:40.820 | INFO     | __main__:train:88 - epoch 27[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:10:41.299 | INFO     | __main__:train:88 - epoch 27[batch i:100][batch size:64][loss:0.69]
+2024-06-18 10:10:41.775 | INFO     | __main__:train:88 - epoch 27[batch i:150][batch size:64][loss:0.68]
+2024-06-18 10:10:42.252 | INFO     | __main__:train:88 - epoch 27[batch i:200][batch size:64][loss:0.67]
+2024-06-18 10:10:42.720 | INFO     | __main__:train:88 - epoch 27[batch i:250][batch size:64][loss:0.68]
+2024-06-18 10:10:43.214 | INFO     | __main__:train:88 - epoch 27[batch i:300][batch size:64][loss:0.67]
+2024-06-18 10:10:43.678 | INFO     | __main__:train:92 - epoch 27 time:7.79s
+2024-06-18 10:10:48.489 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.37%
+2024-06-18 10:10:53.852 | INFO     | __main__:train:88 - epoch 28[batch i:50][batch size:64][loss:0.67]
+2024-06-18 10:10:54.394 | INFO     | __main__:train:88 - epoch 28[batch i:100][batch size:64][loss:0.67]
+2024-06-18 10:10:54.928 | INFO     | __main__:train:88 - epoch 28[batch i:150][batch size:64][loss:0.69]
+2024-06-18 10:10:55.468 | INFO     | __main__:train:88 - epoch 28[batch i:200][batch size:64][loss:0.67]
+2024-06-18 10:10:56.013 | INFO     | __main__:train:88 - epoch 28[batch i:250][batch size:64][loss:0.68]
+2024-06-18 10:10:56.611 | INFO     | __main__:train:88 - epoch 28[batch i:300][batch size:64][loss:0.69]
+2024-06-18 10:10:57.151 | INFO     | __main__:train:92 - epoch 28 time:8.66s
+2024-06-18 10:11:02.627 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.26%
+2024-06-18 10:11:07.908 | INFO     | __main__:train:88 - epoch 29[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:11:08.479 | INFO     | __main__:train:88 - epoch 29[batch i:100][batch size:64][loss:0.69]
+2024-06-18 10:11:09.040 | INFO     | __main__:train:88 - epoch 29[batch i:150][batch size:64][loss:0.69]
+2024-06-18 10:11:09.574 | INFO     | __main__:train:88 - epoch 29[batch i:200][batch size:64][loss:0.67]
+2024-06-18 10:11:10.080 | INFO     | __main__:train:88 - epoch 29[batch i:250][batch size:64][loss:0.69]
+2024-06-18 10:11:10.607 | INFO     | __main__:train:88 - epoch 29[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:11:11.088 | INFO     | __main__:train:92 - epoch 29 time:8.46s
+2024-06-18 10:11:16.162 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.11%
+2024-06-18 10:11:21.182 | INFO     | __main__:train:88 - epoch 30[batch i:50][batch size:64][loss:0.69]
+2024-06-18 10:11:21.701 | INFO     | __main__:train:88 - epoch 30[batch i:100][batch size:64][loss:0.67]
+2024-06-18 10:11:22.323 | INFO     | __main__:train:88 - epoch 30[batch i:150][batch size:64][loss:0.66]
+2024-06-18 10:11:22.760 | INFO     | __main__:train:88 - epoch 30[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:11:23.154 | INFO     | __main__:train:88 - epoch 30[batch i:250][batch size:64][loss:0.69]
+2024-06-18 10:11:23.556 | INFO     | __main__:train:88 - epoch 30[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:11:23.939 | INFO     | __main__:train:92 - epoch 30 time:7.78s
+2024-06-18 10:11:28.920 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.08%
+2024-06-18 10:11:34.132 | INFO     | __main__:train:88 - epoch 31[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:11:34.692 | INFO     | __main__:train:88 - epoch 31[batch i:100][batch size:64][loss:0.67]
+2024-06-18 10:11:35.241 | INFO     | __main__:train:88 - epoch 31[batch i:150][batch size:64][loss:0.68]
+2024-06-18 10:11:35.769 | INFO     | __main__:train:88 - epoch 31[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:11:36.293 | INFO     | __main__:train:88 - epoch 31[batch i:250][batch size:64][loss:0.69]
+2024-06-18 10:11:36.828 | INFO     | __main__:train:88 - epoch 31[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:11:37.324 | INFO     | __main__:train:92 - epoch 31 time:8.40s
+2024-06-18 10:11:42.468 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.42%
+2024-06-18 10:11:47.690 | INFO     | __main__:train:88 - epoch 32[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:11:48.214 | INFO     | __main__:train:88 - epoch 32[batch i:100][batch size:64][loss:0.69]
+2024-06-18 10:11:48.712 | INFO     | __main__:train:88 - epoch 32[batch i:150][batch size:64][loss:0.67]
+2024-06-18 10:11:49.231 | INFO     | __main__:train:88 - epoch 32[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:11:49.715 | INFO     | __main__:train:88 - epoch 32[batch i:250][batch size:64][loss:0.69]
+2024-06-18 10:11:50.207 | INFO     | __main__:train:88 - epoch 32[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:11:50.667 | INFO     | __main__:train:92 - epoch 32 time:8.20s
+2024-06-18 10:11:55.437 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.15%
+2024-06-18 10:12:00.453 | INFO     | __main__:train:88 - epoch 33[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:12:01.005 | INFO     | __main__:train:88 - epoch 33[batch i:100][batch size:64][loss:0.67]
+2024-06-18 10:12:01.535 | INFO     | __main__:train:88 - epoch 33[batch i:150][batch size:64][loss:0.69]
+2024-06-18 10:12:02.069 | INFO     | __main__:train:88 - epoch 33[batch i:200][batch size:64][loss:0.67]
+2024-06-18 10:12:02.600 | INFO     | __main__:train:88 - epoch 33[batch i:250][batch size:64][loss:0.68]
+2024-06-18 10:12:03.153 | INFO     | __main__:train:88 - epoch 33[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:12:03.695 | INFO     | __main__:train:92 - epoch 33 time:8.26s
+2024-06-18 10:12:09.279 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.24%
+2024-06-18 10:12:14.960 | INFO     | __main__:train:88 - epoch 34[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:12:15.572 | INFO     | __main__:train:88 - epoch 34[batch i:100][batch size:64][loss:0.70]
+2024-06-18 10:12:16.158 | INFO     | __main__:train:88 - epoch 34[batch i:150][batch size:64][loss:0.66]
+2024-06-18 10:12:16.762 | INFO     | __main__:train:88 - epoch 34[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:12:17.353 | INFO     | __main__:train:88 - epoch 34[batch i:250][batch size:64][loss:0.67]
+2024-06-18 10:12:17.871 | INFO     | __main__:train:88 - epoch 34[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:12:18.274 | INFO     | __main__:train:92 - epoch 34 time:8.99s
+2024-06-18 10:12:23.268 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.48%
+2024-06-18 10:12:28.658 | INFO     | __main__:train:88 - epoch 35[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:12:29.526 | INFO     | __main__:train:88 - epoch 35[batch i:100][batch size:64][loss:0.68]
+2024-06-18 10:12:30.405 | INFO     | __main__:train:88 - epoch 35[batch i:150][batch size:64][loss:0.66]
+2024-06-18 10:12:31.246 | INFO     | __main__:train:88 - epoch 35[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:12:32.034 | INFO     | __main__:train:88 - epoch 35[batch i:250][batch size:64][loss:0.68]
+2024-06-18 10:12:32.812 | INFO     | __main__:train:88 - epoch 35[batch i:300][batch size:64][loss:0.67]
+2024-06-18 10:12:33.374 | INFO     | __main__:train:92 - epoch 35 time:10.10s
+2024-06-18 10:12:38.061 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.56%
+2024-06-18 10:12:42.909 | INFO     | __main__:train:88 - epoch 36[batch i:50][batch size:64][loss:0.69]
+2024-06-18 10:12:43.463 | INFO     | __main__:train:88 - epoch 36[batch i:100][batch size:64][loss:0.65]
+2024-06-18 10:12:44.030 | INFO     | __main__:train:88 - epoch 36[batch i:150][batch size:64][loss:0.68]
+2024-06-18 10:12:44.607 | INFO     | __main__:train:88 - epoch 36[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:12:45.173 | INFO     | __main__:train:88 - epoch 36[batch i:250][batch size:64][loss:0.68]
+2024-06-18 10:12:45.732 | INFO     | __main__:train:88 - epoch 36[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:12:46.202 | INFO     | __main__:train:92 - epoch 36 time:8.14s
+2024-06-18 10:12:51.046 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.31%
+2024-06-18 10:12:55.920 | INFO     | __main__:train:88 - epoch 37[batch i:50][batch size:64][loss:0.67]
+2024-06-18 10:12:56.465 | INFO     | __main__:train:88 - epoch 37[batch i:100][batch size:64][loss:0.70]
+2024-06-18 10:12:57.042 | INFO     | __main__:train:88 - epoch 37[batch i:150][batch size:64][loss:0.68]
+2024-06-18 10:12:57.627 | INFO     | __main__:train:88 - epoch 37[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:12:58.205 | INFO     | __main__:train:88 - epoch 37[batch i:250][batch size:64][loss:0.68]
+2024-06-18 10:12:58.811 | INFO     | __main__:train:88 - epoch 37[batch i:300][batch size:64][loss:0.66]
+2024-06-18 10:12:59.278 | INFO     | __main__:train:92 - epoch 37 time:8.23s
+2024-06-18 10:13:04.259 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.28%
+2024-06-18 10:13:09.335 | INFO     | __main__:train:88 - epoch 38[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:13:09.941 | INFO     | __main__:train:88 - epoch 38[batch i:100][batch size:64][loss:0.68]
+2024-06-18 10:13:10.546 | INFO     | __main__:train:88 - epoch 38[batch i:150][batch size:64][loss:0.68]
+2024-06-18 10:13:11.145 | INFO     | __main__:train:88 - epoch 38[batch i:200][batch size:64][loss:0.69]
+2024-06-18 10:13:11.742 | INFO     | __main__:train:88 - epoch 38[batch i:250][batch size:64][loss:0.69]
+2024-06-18 10:13:12.341 | INFO     | __main__:train:88 - epoch 38[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:13:12.809 | INFO     | __main__:train:92 - epoch 38 time:8.55s
+2024-06-18 10:13:17.862 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.44%
+2024-06-18 10:13:23.103 | INFO     | __main__:train:88 - epoch 39[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:13:23.684 | INFO     | __main__:train:88 - epoch 39[batch i:100][batch size:64][loss:0.67]
+2024-06-18 10:13:24.292 | INFO     | __main__:train:88 - epoch 39[batch i:150][batch size:64][loss:0.69]
+2024-06-18 10:13:24.881 | INFO     | __main__:train:88 - epoch 39[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:13:25.471 | INFO     | __main__:train:88 - epoch 39[batch i:250][batch size:64][loss:0.68]
+2024-06-18 10:13:26.060 | INFO     | __main__:train:88 - epoch 39[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:13:26.566 | INFO     | __main__:train:92 - epoch 39 time:8.70s
+2024-06-18 10:13:32.162 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.22%
+2024-06-18 10:13:38.092 | INFO     | __main__:train:88 - epoch 40[batch i:50][batch size:64][loss:0.69]
+2024-06-18 10:13:38.570 | INFO     | __main__:train:88 - epoch 40[batch i:100][batch size:64][loss:0.68]
+2024-06-18 10:13:38.992 | INFO     | __main__:train:88 - epoch 40[batch i:150][batch size:64][loss:0.67]
+2024-06-18 10:13:39.417 | INFO     | __main__:train:88 - epoch 40[batch i:200][batch size:64][loss:0.66]
+2024-06-18 10:13:39.835 | INFO     | __main__:train:88 - epoch 40[batch i:250][batch size:64][loss:0.67]
+2024-06-18 10:13:40.259 | INFO     | __main__:train:88 - epoch 40[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:13:40.633 | INFO     | __main__:train:92 - epoch 40 time:8.47s
+2024-06-18 10:13:45.561 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.29%
+2024-06-18 10:13:50.186 | INFO     | __main__:train:88 - epoch 41[batch i:50][batch size:64][loss:0.67]
+2024-06-18 10:13:50.529 | INFO     | __main__:train:88 - epoch 41[batch i:100][batch size:64][loss:0.70]
+2024-06-18 10:13:50.889 | INFO     | __main__:train:88 - epoch 41[batch i:150][batch size:64][loss:0.67]
+2024-06-18 10:13:51.248 | INFO     | __main__:train:88 - epoch 41[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:13:51.670 | INFO     | __main__:train:88 - epoch 41[batch i:250][batch size:64][loss:0.67]
+2024-06-18 10:13:52.022 | INFO     | __main__:train:88 - epoch 41[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:13:52.345 | INFO     | __main__:train:92 - epoch 41 time:6.78s
+2024-06-18 10:13:57.661 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.16%
+2024-06-18 10:14:03.461 | INFO     | __main__:train:88 - epoch 42[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:14:04.144 | INFO     | __main__:train:88 - epoch 42[batch i:100][batch size:64][loss:0.68]
+2024-06-18 10:14:04.807 | INFO     | __main__:train:88 - epoch 42[batch i:150][batch size:64][loss:0.69]
+2024-06-18 10:14:05.451 | INFO     | __main__:train:88 - epoch 42[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:14:06.097 | INFO     | __main__:train:88 - epoch 42[batch i:250][batch size:64][loss:0.69]
+2024-06-18 10:14:06.755 | INFO     | __main__:train:88 - epoch 42[batch i:300][batch size:64][loss:0.67]
+2024-06-18 10:14:07.280 | INFO     | __main__:train:92 - epoch 42 time:9.62s
+2024-06-18 10:14:12.856 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.53%
+2024-06-18 10:14:18.354 | INFO     | __main__:train:88 - epoch 43[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:14:19.080 | INFO     | __main__:train:88 - epoch 43[batch i:100][batch size:64][loss:0.68]
+2024-06-18 10:14:19.858 | INFO     | __main__:train:88 - epoch 43[batch i:150][batch size:64][loss:0.68]
+2024-06-18 10:14:20.575 | INFO     | __main__:train:88 - epoch 43[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:14:21.309 | INFO     | __main__:train:88 - epoch 43[batch i:250][batch size:64][loss:0.68]
+2024-06-18 10:14:22.007 | INFO     | __main__:train:88 - epoch 43[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:14:22.547 | INFO     | __main__:train:92 - epoch 43 time:9.69s
+2024-06-18 10:14:27.084 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.26%
+2024-06-18 10:14:31.775 | INFO     | __main__:train:88 - epoch 44[batch i:50][batch size:64][loss:0.66]
+2024-06-18 10:14:32.145 | INFO     | __main__:train:88 - epoch 44[batch i:100][batch size:64][loss:0.67]
+2024-06-18 10:14:32.508 | INFO     | __main__:train:88 - epoch 44[batch i:150][batch size:64][loss:0.68]
+2024-06-18 10:14:32.854 | INFO     | __main__:train:88 - epoch 44[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:14:33.200 | INFO     | __main__:train:88 - epoch 44[batch i:250][batch size:64][loss:0.68]
+2024-06-18 10:14:33.549 | INFO     | __main__:train:88 - epoch 44[batch i:300][batch size:64][loss:0.69]
+2024-06-18 10:14:33.877 | INFO     | __main__:train:92 - epoch 44 time:6.79s
+2024-06-18 10:14:38.652 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.52%
+2024-06-18 10:14:43.376 | INFO     | __main__:train:88 - epoch 45[batch i:50][batch size:64][loss:0.68]
+2024-06-18 10:14:43.715 | INFO     | __main__:train:88 - epoch 45[batch i:100][batch size:64][loss:0.69]
+2024-06-18 10:14:44.073 | INFO     | __main__:train:88 - epoch 45[batch i:150][batch size:64][loss:0.67]
+2024-06-18 10:14:44.434 | INFO     | __main__:train:88 - epoch 45[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:14:44.799 | INFO     | __main__:train:88 - epoch 45[batch i:250][batch size:64][loss:0.67]
+2024-06-18 10:14:45.154 | INFO     | __main__:train:88 - epoch 45[batch i:300][batch size:64][loss:0.69]
+2024-06-18 10:14:45.494 | INFO     | __main__:train:92 - epoch 45 time:6.84s
+2024-06-18 10:14:50.047 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.30%
+2024-06-18 10:14:55.128 | INFO     | __main__:train:88 - epoch 46[batch i:50][batch size:64][loss:0.67]
+2024-06-18 10:14:55.768 | INFO     | __main__:train:88 - epoch 46[batch i:100][batch size:64][loss:0.69]
+2024-06-18 10:14:56.419 | INFO     | __main__:train:88 - epoch 46[batch i:150][batch size:64][loss:0.70]
+2024-06-18 10:14:56.916 | INFO     | __main__:train:88 - epoch 46[batch i:200][batch size:64][loss:0.67]
+2024-06-18 10:14:57.305 | INFO     | __main__:train:88 - epoch 46[batch i:250][batch size:64][loss:0.66]
+2024-06-18 10:14:57.703 | INFO     | __main__:train:88 - epoch 46[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:14:58.112 | INFO     | __main__:train:92 - epoch 46 time:8.07s
+2024-06-18 10:15:02.448 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.20%
+2024-06-18 10:15:06.947 | INFO     | __main__:train:88 - epoch 47[batch i:50][batch size:64][loss:0.69]
+2024-06-18 10:15:07.317 | INFO     | __main__:train:88 - epoch 47[batch i:100][batch size:64][loss:0.67]
+2024-06-18 10:15:07.661 | INFO     | __main__:train:88 - epoch 47[batch i:150][batch size:64][loss:0.66]
+2024-06-18 10:15:08.012 | INFO     | __main__:train:88 - epoch 47[batch i:200][batch size:64][loss:0.71]
+2024-06-18 10:15:08.371 | INFO     | __main__:train:88 - epoch 47[batch i:250][batch size:64][loss:0.67]
+2024-06-18 10:15:08.732 | INFO     | __main__:train:88 - epoch 47[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:15:09.091 | INFO     | __main__:train:92 - epoch 47 time:6.64s
+2024-06-18 10:15:13.506 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.05%
+2024-06-18 10:15:18.427 | INFO     | __main__:train:88 - epoch 48[batch i:50][batch size:64][loss:0.67]
+2024-06-18 10:15:18.812 | INFO     | __main__:train:88 - epoch 48[batch i:100][batch size:64][loss:0.67]
+2024-06-18 10:15:19.187 | INFO     | __main__:train:88 - epoch 48[batch i:150][batch size:64][loss:0.67]
+2024-06-18 10:15:19.543 | INFO     | __main__:train:88 - epoch 48[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:15:19.952 | INFO     | __main__:train:88 - epoch 48[batch i:250][batch size:64][loss:0.71]
+2024-06-18 10:15:20.358 | INFO     | __main__:train:88 - epoch 48[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:15:20.770 | INFO     | __main__:train:92 - epoch 48 time:7.26s
+2024-06-18 10:15:26.356 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.21%
+2024-06-18 10:15:31.476 | INFO     | __main__:train:88 - epoch 49[batch i:50][batch size:64][loss:0.67]
+2024-06-18 10:15:31.825 | INFO     | __main__:train:88 - epoch 49[batch i:100][batch size:64][loss:0.66]
+2024-06-18 10:15:32.186 | INFO     | __main__:train:88 - epoch 49[batch i:150][batch size:64][loss:0.68]
+2024-06-18 10:15:32.539 | INFO     | __main__:train:88 - epoch 49[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:15:32.904 | INFO     | __main__:train:88 - epoch 49[batch i:250][batch size:64][loss:0.68]
+2024-06-18 10:15:33.270 | INFO     | __main__:train:88 - epoch 49[batch i:300][batch size:64][loss:0.67]
+2024-06-18 10:15:33.626 | INFO     | __main__:train:92 - epoch 49 time:7.27s
+2024-06-18 10:15:38.047 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.47%
+2024-06-18 10:15:42.579 | INFO     | __main__:train:88 - epoch 50[batch i:50][batch size:64][loss:0.69]
+2024-06-18 10:15:42.955 | INFO     | __main__:train:88 - epoch 50[batch i:100][batch size:64][loss:0.67]
+2024-06-18 10:15:43.297 | INFO     | __main__:train:88 - epoch 50[batch i:150][batch size:64][loss:0.69]
+2024-06-18 10:15:43.641 | INFO     | __main__:train:88 - epoch 50[batch i:200][batch size:64][loss:0.68]
+2024-06-18 10:15:44.012 | INFO     | __main__:train:88 - epoch 50[batch i:250][batch size:64][loss:0.67]
+2024-06-18 10:15:44.379 | INFO     | __main__:train:88 - epoch 50[batch i:300][batch size:64][loss:0.68]
+2024-06-18 10:15:44.766 | INFO     | __main__:train:92 - epoch 50 time:6.72s
+2024-06-18 10:15:49.288 | WARNING  | __main__:evaluate:71 - [eval]Accuracy of the network on the 10000 test images: 50.39%
+2024-06-18 10:15:49.289 | INFO     | __main__:<module>:135 - Finished Training
